@@ -28,7 +28,7 @@ Portfolio website is Loading...
 
 ## Want to work together?
 
-Shoot me an email at [email@example.com](mailto:aguhenrychuks@gmail.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/aguhenry).
+Shoot me an email at [my mail](mailto:aguhenrychuks@gmail.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/aguhenry).
 
 ## Fun facts about me
 
