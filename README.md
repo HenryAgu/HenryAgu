@@ -4,9 +4,9 @@ HenryAgu/HenryAgu is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Welcome to my GitHub Profile 🎉
+# Welcome to my GitHub Profile 👋 
 
-- 👋 Hi, I’m @HenryAgu
+-Hi, I’m @HenryAgu
 
 I'm a Frontend Developer and I love bringing designs to life using HTML, CSS and JavaScript, reactjs.
 
