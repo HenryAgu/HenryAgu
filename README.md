@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 -Hi, I’m @HenryAgu
 
-I'm a Frontend Developer and I love bringing designs to life using HTML, CSS and JavaScript, reactjs.
+I am Henry Agu, a FrontEnd Developer (particularly React Js), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
 
 ![Image of a frontend developer coding with excitement](https://media.giphy.com/media/3o7aCQR4Zhr0EgLbKs/giphy.gif)
 
