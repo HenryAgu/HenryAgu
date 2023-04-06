@@ -1,40 +1,34 @@
+<h1 align="center">Hi 👋, I'm Henry Agu</h1>
+<h3 align="center">I am Henry Agu, a FrontEnd Developer (particularly React Js), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.</h3>
 
-<!---
-HenryAgu/HenryAgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryagu&label=Profile%20views&color=0e75b6&style=flat" alt="henryagu" /> </p>
 
-# Welcome to my GitHub Profile 👋 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryagu" alt="henryagu" /></a> </p>
 
--Hi, I’m @HenryAgu
+<p align="left"> <a href="https://twitter.com/_henryi" target="blank"><img src="https://img.shields.io/twitter/follow/_henryi?logo=twitter&style=for-the-badge" alt="_henryi" /></a> </p>
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
-I am Henry Agu, a FrontEnd Developer (particularly React Js), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+- 🌱 I’m currently learning **TypeScript** and **mastering javaScript**
 
-![Image of a frontend developer coding with excitement](https://media.giphy.com/media/3o7aCQR4Zhr0EgLbKs/giphy.gif)
+- 👨‍💻 All of my projects are available at [https://github.com/HenryAgu](https://github.com/HenryAgu)
 
-Here's a list of things I'm good at:
+- 💬 Ask me about **Web development, reactJs**
 
-- HTML: I can write HTML faster than you can say "Hypertext Markup Language"
-- CSS: I can make your website look good, even when I am having a bad day
-- JavaScript: I can bring your website to life with animations, interactivity and more
-- React: I can build scalable, performant and user-friendly applications using React
+- 📫 How to reach me **aguhenrychuks@gmail.com**
 
-I love to work on projects that challenge me, push me out of my comfort zone and help me grow as a developer. If you're looking for someone to help you bring your designs to life, you've come to the right place!
+- ⚡ Fun fact **Without music as a form of art, the world would have just been black and white.**
 
-## Want to see my work?
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_henryi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_henryi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aguhenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aguhenry" height="30" width="40" /></a>
+</p>
 
-Check out my repo
-Portfolio website is Loading...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-## Want to work together?
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henryagu&show_icons=true&locale=en&layout=compact" alt="henryagu" /></p>
 
-Shoot me an email at [my mail](mailto:aguhenrychuks@gmail.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/aguhenry).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryagu&show_icons=true&locale=en" alt="henryagu" /></p>
 
-## Fun facts about me
-
-- I love trying out new genres of music.
-- I'm a movie buff and almost a series addict
-
-![Image of a frontend developer relaxing with a cup of coffee](https://media.giphy.com/media/3oEjHVYcYhQj2ZU4zK/giphy.gif)
-
-Thanks for visiting my profile, have a great day!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryagu&" alt="henryagu" /></p>
