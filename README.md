@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Agu</h1>
 <h3 align="center">I am Henry Agu, a FrontEnd Developer (particularly React Js), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.</h3>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryagu&label=Profile%20views&color=0e75b6&style=flat" alt="henryagu" /> </p>
 
